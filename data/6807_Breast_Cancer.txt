@@ -1,0 +1,47 @@
+<!-- wp:paragraph -->
+<p>Breast cancer is the most common type of cancer worldwide.  Most women diagnosed with breast cancer are over 50, but younger women can also get breast cancer. About one in eight women are diagnosed with breast cancer during their lifetime.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Associated Symptoms</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Breast pain</li><li>Nipple retraction</li><li>Redness or scaling is on the breast</li><li>Nipple discharge</li><li>Lump/s on the breast</li><li>Skin irritation or dimpling</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 1</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>ONCOTRACE Code 7006</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Or</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>ONCONOMICS PLUS Code 7003</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/contact-us/" target="_blank" rel="noreferrer noopener">Contact Us for more information about these 2 tests.</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 2</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/advanced-dried-urine-hormone-profile-dutch-test/" target="_blank" rel="noreferrer noopener">Advanced Hormones Dried Urine Code 1501</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 3</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/estrogen-metabolites-level-3-24-hour-urine-test/" target="_blank" rel="noreferrer noopener">Estrogen Metabolites Level 3, 24-hour Code 1209</a></p>
+<!-- /wp:paragraph -->

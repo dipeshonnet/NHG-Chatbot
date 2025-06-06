@@ -1,0 +1,1 @@
+[vc_row][vc_column][vc_masonry_grid post_type="post" max_items="20" style="load-more" items_per_page="20" grid_id="vc_gid:1461998145349-435550ef-06a2-7" taxonomies="433, 431, 424, 430, 436, 422, 435, 434, 423, 432, 426, 427, 425" btn_add_icon="true"][/vc_column][/vc_row]

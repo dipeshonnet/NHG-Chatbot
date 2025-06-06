@@ -1,0 +1,43 @@
+<!-- wp:paragraph -->
+<p>Coeliac disease(CD) is an autoimmune inflammatory condition affecting the small intestine. CD is caused by an adverse reaction to the protein found in the grains called gluten.  Gluten is found in wheat, barley, rye, and beverages such as beer.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Associated Symptoms</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Fatigue</li><li>Diarrhea</li><li>Abdominal pain</li><li>Bloating and flatulence</li><li>Indigestion</li><li>Constipation</li><li>Unexpected weight loss</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 1</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/gluten-sensitivity-genetic-test/" target="_blank" rel="noreferrer noopener">Gluten Sensitivity Genetic Test Code 2019</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 2</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/coeliac-and-gluten-intolerance-test/" target="_blank" rel="noreferrer noopener">Coeliac Profile Code 2022</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 3</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/complete-microbiome-mapping-test/" target="_blank" rel="noreferrer noopener">Complete Microbiome Mapping Code 2206</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Or</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/gastrointestinal-function-digestive-stool-analysis-test/" target="_blank" rel="noreferrer noopener">CDSA Level 3+ Code 2006</a></p>
+<!-- /wp:paragraph -->

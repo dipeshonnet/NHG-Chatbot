@@ -1,0 +1,47 @@
+<!-- wp:paragraph -->
+<p>Headaches are a common condition leading to a constant ache either on both sides of the head or behind the eyes. Pain may vary in severity, duration, and frequency and may be alleviated with rest and medication. Headaches may be tension, migraines, cluster, and hormone sources.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Associated Symptoms</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Pain in the head</li><li>Nausea</li><li>Muscle aches and pains</li><li>A tight band across the head</li><li>Pain around the eye</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 1</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/hormone-imbalance-test-male-extensive/" target="_blank" rel="noreferrer noopener">Male hormones</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/hormone-imbalance-test-female-extensive/" target="_blank" rel="noreferrer noopener">Female hormones</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 2</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/allergy-test-igg-general-96-foods/" target="_blank" rel="noreferrer noopener">Allergy Panel – IgG General Foods Code 3206</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 3</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/adrenocortex-profile-basic-female-hormones-test/" target="_blank" rel="noreferrer noopener">Adrenocortex Profile Basic + Female Hormone Prole Code 1010</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Or</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/adrenocortex-stress-male-basic-test/" target="_blank" rel="noreferrer noopener">Adrenocortex Stress and male Basic Code 1011</a></p>
+<!-- /wp:paragraph -->

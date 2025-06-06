@@ -1,0 +1,35 @@
+<!-- wp:paragraph -->
+<p>Bipolar disorder, formerly known as manic depression, is a condition that affects your moods, which can swing from one extreme to another. People with bipolar disorder have periods or episodes of depression – feeling very low and lethargic mania – feeling very high and overactive (less severe mania is<br>known as hypomania).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Associated Symptoms</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Feeling hopeless or sad</li><li>Irritability</li><li>Mental sluggishness</li><li>Fatigue</li><li>Inability to experience pleasure</li><li>Hallucinations</li><li>Exaggerated swings of mood</li><li>Poor cognition</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 1</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/neurotransmitter-test-extensive/" target="_blank" rel="noreferrer noopener">Neurotransmitters Extensive Code 4026</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 2</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Pfeiffer Profile Code <a href="https://www.naturalhealthgroup.com.au/product/pfeiffer-test/" target="_blank" rel="noreferrer noopener">3415</a> or <a href="https://www.naturalhealthgroup.com.au/product/pfeiffer-test-extensive/" target="_blank" rel="noreferrer noopener">3416</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 3</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/kryptopyrrole-pyroluria-pyrrole-mauve-test/" target="_blank" rel="noreferrer noopener">Mauve Factor (formerly Kryptopyrroles) Code 4011</a></p>
+<!-- /wp:paragraph -->

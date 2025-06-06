@@ -1,0 +1,35 @@
+<!-- wp:paragraph -->
+<p>Dementia presents as a loss of memory and cognitive impairment is seen in Alzheimer’s disease and vascular dementia. Dementia is a collection of symptoms that result from damage to the brain with gradual death of brain cells particularly seen in those over 60s.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Associated Symptoms</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Impaired attention and concentration</li><li>Mood and behavioural changes</li><li>Loss of memory</li><li>Disorientation and confusion</li><li>Personality changes including aggressiveness</li><li>Depression</li><li>Mood swings and apathy</li><li>Urinary incontinence</li><li>Hallucinations</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 1</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/neurotransmitter-test-extensive/" target="_blank" rel="noreferrer noopener">Neurotransmitters Extensive Code 4026</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 2</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/apolipoprotein-e-apo-e-saliva-test-kit/" target="_blank" rel="noreferrer noopener">APOE Code 3408</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 3</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/essential-fatty-acids-red-cell-blood-edta-test/" target="_blank" rel="noreferrer noopener">Essential Fatty Acids Code 5011</a></p>
+<!-- /wp:paragraph -->

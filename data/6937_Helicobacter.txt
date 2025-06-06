@@ -1,0 +1,35 @@
+<!-- wp:paragraph -->
+<p>Helicobacter pylori is a bacterial infection of the digestive tract which attacks the stomach lining and is responsible for ulcers in the stomach and small intestine.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Associated Symptoms</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Peptic ulcers</li><li>Gastritis</li><li>Burping and belching</li><li>Bloating</li><li>Nausea</li><li>Vomiting</li><li>Loss of appetite or anorexia</li><li>Unexplained weight loss</li><li>Foul breath</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 1</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/helicobacter-pylori-antigen-h-pylori-home-stool-test/" target="_blank" rel="noreferrer noopener">Helicobacter pylori Antigen (Faecal) Code 2010</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 2</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/complete-microbiome-mapping-test/" target="_blank" rel="noreferrer noopener">Complete Microbiome Mapping Code 2206</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Or</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/gastrointestinal-function-digestive-stool-analysis-test/" target="_blank" rel="noreferrer noopener">CDSA Level 3+ Code 2006</a></p>
+<!-- /wp:paragraph -->

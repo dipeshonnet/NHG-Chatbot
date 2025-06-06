@@ -1,0 +1,35 @@
+<!-- wp:paragraph -->
+<p>Anemia is a condition that develops when your blood lacks enough healthy red blood cells or hemoglobin. Hemoglobin is<br>the main part of red blood cells and binds oxygen. If you have too few or abnormal red blood cells, or your hemoglobin is<br>abnormal or low, the cells in your body will not get enough oxygen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Associated Symptoms</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Lethargy</li><li>Shortness of breath</li><li>Palpitations</li><li>Pale complexion</li><li>Headache</li><li>Hair loss</li><li>Difficulty swallowing</li><li>Altered sense of taste</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 1</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/iron-studies-blood-sst-test/" target="_blank" rel="noreferrer noopener">Iron Studies Code 6009</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 2</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/vitamin-b12-folate-test/" target="_blank" rel="noreferrer noopener">Active vitamin B12 and folate Code 6013</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 3</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/adrenal-fatigue-test/" target="_blank" rel="noreferrer noopener">Adrenocortex Basic Code 1001</a></p>
+<!-- /wp:paragraph -->

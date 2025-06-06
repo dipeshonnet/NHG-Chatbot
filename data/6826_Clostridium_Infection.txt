@@ -1,0 +1,35 @@
+<!-- wp:paragraph -->
+<p>Clostridium difcile, also known as C. difcile or C. diff, is a bacterium that can infect the bowel and cause diarrhea.  The infection most commonly affects people who have recently been treated with antibiotics but can spread easily to others. C. difcile infections are unpleasant and can sometimes cause serious bowel problems, but they can usually be treated with another course of antibiotics.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Associated Symptoms</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Watery diarrhea</li><li>Severe abdominal pain</li><li>Loss of appetite</li><li>Fever</li><li>Blood or pus in the stool</li><li>Weight loss</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 1</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/clostridium-difficile-test/" target="_blank" rel="noreferrer noopener">Clostridium Difcile Test Code 2017</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 2</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/complete-microbiome-mapping-test/" target="_blank" rel="noreferrer noopener">Complete Microbiome Mapping Code 2206</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Or</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/gastrointestinal-function-digestive-stool-analysis-test/" target="_blank" rel="noreferrer noopener">CDSA Level 3+ Code 2006</a></p>
+<!-- /wp:paragraph -->

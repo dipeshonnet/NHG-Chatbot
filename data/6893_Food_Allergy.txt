@@ -1,0 +1,27 @@
+<!-- wp:paragraph -->
+<p>Food allergy affects the body’s immune system when it reacts to specific foods. Food allergy, intolerance, and sensitivity can affect the body in many ways. Severe food allergy may be life-threatening leading to anaphylaxis.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Associated Symptoms</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Gastrointestinal disturbances</li><li>Swelling of the face, eyes, lips</li><li>Nausea or vomiting</li><li>Hives or rashes</li><li>Fatigue</li><li>Mental health disturbances</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 1</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/allergy-test-igg-general-96-foods/" target="_blank" rel="noreferrer noopener">Allergy Panel – IgG General Foods Code 3206</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 2</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/alcat-intolerance-test-platinum/" target="_blank" rel="noreferrer noopener"><a href="https://www.naturalhealthgroup.com.au/product-category/alcat/" target="_blank" rel="noreferrer noopener">ALCAT Intolerance - Foods, Chemicals, Food additives, Environmental pollutants, Moulds</a></a></p>
+<!-- /wp:paragraph -->

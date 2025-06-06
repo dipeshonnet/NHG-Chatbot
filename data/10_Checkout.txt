@@ -1,0 +1,5 @@
+<p>[vc_row][vc_column][vc_message message_box_style="solid" style="square" message_box_color="turquoise" css=".vc_custom_1699111725349{border-radius: 3px !important;}"]</p>
+<h1><span style="color: #ffffff;">Important! If you are ordering a TEST product, please Note:</span></h1>
+<h3><span style="color: #ffffff;">If you are ordering a test product or consultation, please ensure you have filled out <strong>your date of birth, age, sex</strong> and noted any medications that you're currently taking in the medications box provided, <strong>if these are not provided we cannot approve your test.</strong></span></h3>
+<h3><span style="color: #ffffff;">If you are ordering a consultation please include your symptoms/health concerns in the comments box provided.</span></h3>
+<p>[/vc_message][/vc_column][vc_column][woocommerce_checkout][/vc_column][/vc_row]</p>
