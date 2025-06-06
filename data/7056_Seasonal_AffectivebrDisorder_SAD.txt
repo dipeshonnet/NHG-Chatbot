@@ -1,0 +1,35 @@
+<!-- wp:paragraph -->
+<p>Seasonal Affective Disorder (SAD) is a type of depression that manifests in the dark winter months. A lack of sunlight affects the production of melatonin, and serotonin and disturbs circadian rhythms which can lead to symptoms of SAD.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Associated Symptoms</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Low mood</li><li>Irritability</li><li>Lethargy</li><li>Sleeping for longer periods of time</li><li>Carbohydrate cravings</li><li>Loss of interest in daily activities</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 1</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/neurotransmitter-test-extensive/" target="_blank" rel="noreferrer noopener">Neurotransmitters Extensive Code 4026</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 2</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/kryptopyrrole-pyroluria-pyrrole-mauve-test/" target="_blank" rel="noreferrer noopener">Mauve Factor (formerly Kryptopyrroles) Code 4011</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 3</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/histamine-intolerance-allergy-test/" target="_blank" rel="noreferrer noopener">Histamine Metabolism Profile Code 4006</a></p>
+<!-- /wp:paragraph -->

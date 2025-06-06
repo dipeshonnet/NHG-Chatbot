@@ -1,0 +1,47 @@
+<!-- wp:paragraph -->
+<p>Pancreatic cancer, one of the most serious forms of cancer, is associated with the abnormal growth of pancreatic cells. The rest notable signs of pancreatic cancer are a pain in the back or stomach, rapid unexpected weight loss, and jaundice.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Associated Symptoms</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Unexpected weight loss</li><li>Back or stomach pain</li><li>Jaundice</li><li>Nausea and vomiting</li><li>Indigestion</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 1</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>ONCOTRACE Code 7006</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Or</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>ONCONOMICS PLUS Code 7003</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/contact-us/" target="_blank" rel="noreferrer noopener">Contact Us for more information about this test</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 2</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/protein-tumor-markers-test/" target="_blank" rel="noreferrer noopener">CA 19-9 Code 6110</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 3</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/pancreatic-elastase-1-test/" target="_blank" rel="noreferrer noopener">Pancreatic Elastase Code 2014</a></p>
+<!-- /wp:paragraph -->

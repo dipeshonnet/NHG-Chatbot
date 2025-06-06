@@ -1,0 +1,33 @@
+<p>[vc_row][vc_column][vc_column_text]</p>
+<p><!-- wp:paragraph -->Insomnia is difficulty getting to sleep or staying asleep long enough to feel refreshed upon awakening. Persistent insomnia can have a significant impact on quality of life which can affect energy, moods, stress, and relationships. The underlying causes of insomnia is associated with stress and anxiety, poor<br />sleeping environment, lifestyle factors, mental health issues, physical health conditions, and medication use.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2>Associated Symptoms</h2>
+<!-- /wp:heading -->
+<!-- wp:list -->
+<ul>
+<li>Sleeplessness</li>
+<li>Disturbed sleep</li>
+<li>Fatigue</li>
+<li>Stress</li>
+</ul>
+<p>Advanced ebooks:</p>
+<p>https://www.naturalhealthgroup.com.au/product/sleep-problems-insomnia-genes-the-genetic-advantage/</p>
+<!-- /wp:list -->
+<!-- wp:heading -->
+<h2>Relevant Test 1</h2>
+<!-- /wp:heading -->
+<p><!-- wp:paragraph --><a href="https://www.naturalhealthgroup.com.au/product/sleep-hormone-test/" target="_blank" rel="noreferrer noopener">Sleep Profile Code 1009</a></p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2>Relevant Test 2</h2>
+<!-- /wp:heading -->
+<p><!-- wp:paragraph --><a href="https://www.naturalhealthgroup.com.au/product/neurotransmitter-test-extensive/" target="_blank" rel="noreferrer noopener">Neurotransmitters Extensive Code 4026</a></p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2>Relevant Test 3</h2>
+<!-- /wp:heading -->
+<p><!-- wp:paragraph --><a href="https://www.naturalhealthgroup.com.au/product/adrenal-fatigue-test/" target="_blank" rel="noreferrer noopener">Adrenocortex Stress Profile code 1001</a></p>
+<!-- /wp:paragraph -->
+<p>&nbsp;</p>
+<p>[/vc_column_text][/vc_column][/vc_row]</p>

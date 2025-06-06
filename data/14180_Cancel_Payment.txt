@@ -1,0 +1,3 @@
+<div class="bpa-front-data-empty-view __bpa-is-guest-view">
+                <h4>Sorry! Something went wrong. Your payment has been failed.</h4>
+            </div>

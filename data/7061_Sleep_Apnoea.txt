@@ -1,0 +1,33 @@
+<p>[vc_row][vc_column][vc_column_text]</p>
+<p><!-- wp:paragraph -->Obstructive sleep apnoea (OSA) is a common condition affecting the narrowing of the throat during sleep which interrupts normal breathing. OSA may be classified as apnoea, we muscles and soft tissues to cause blockage of the airway, or hypopnoea, partial blockage of the airway resulting in airflow reduction.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2>Associated Symptoms</h2>
+<!-- /wp:heading -->
+<!-- wp:list -->
+<ul>
+<li>Snoring</li>
+<li>Noisy and labored breath</li>
+<li>Gasping or snorting</li>
+<li>Night sweats</li>
+<li>Fatigue</li>
+</ul>
+<!-- /wp:list -->
+<!-- wp:heading -->
+<h2>Relevant Test 1</h2>
+<!-- /wp:heading -->
+<p><!-- wp:paragraph --><a href="https://www.naturalhealthgroup.com.au/product/sleep-hormone-test/" target="_blank" rel="noreferrer noopener">Sleep Profile Code 1009</a></p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2>Relevant Test 2</h2>
+<!-- /wp:heading -->
+<p><!-- wp:paragraph --><a href="https://www.naturalhealthgroup.com.au/product/neurotransmitter-test-extensive/" target="_blank" rel="noreferrer noopener">Neurotransmitters Extensive Code 4026</a></p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2>Relevant Test 3</h2>
+<!-- /wp:heading -->
+<p><!-- wp:paragraph --><a href="https://www.naturalhealthgroup.com.au/product/adrenal-fatigue-test/" target="_blank" rel="noreferrer noopener">Adrenocortex Code 1001</a></p>
+<!-- /wp:paragraph -->
+<p>Ebooks:</p>
+<p>https://www.naturalhealthgroup.com.au/product/sleep-problems-insomnia-genes-the-genetic-advantage/</p>
+<p>[/vc_column_text][/vc_column][/vc_row]</p>

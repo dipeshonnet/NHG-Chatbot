@@ -1,0 +1,35 @@
+<!-- wp:paragraph -->
+<p>Iron deficiency anemia is a condition of a lack of iron required to store and carry oxygen in red blood cells. Other types of anemia can be caused by a lack of vitamin B12 or folate in the body.  Iron deficiency anemia may be caused by excessive bleeding in the stomach or intestine stomach and bowel cancer, or taking non-steroidal anti-inflammatory drugs.  In women of reproductive age, heavy periods and pregnancy are common causes of iron deficiency.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Associated Symptoms</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Fatigue</li><li>Lethargy</li><li>Shortness of breath</li><li>Heart palpitations</li><li>Dizziness</li><li>Pale complexion</li><li>Headaches</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 1</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/iron-studies-blood-sst-test/" target="_blank" rel="noreferrer noopener">Iron Studies Code 6009</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 2</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/vitamin-b12-folate-test/" target="_blank" rel="noreferrer noopener">Active vitamin B12 and folate Code 6013</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 3</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/faecal-occult-blood-test/" target="_blank" rel="noreferrer noopener">Faecal Occult Blood Code 2020</a></p>
+<!-- /wp:paragraph -->

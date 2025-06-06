@@ -1,0 +1,35 @@
+<!-- wp:paragraph -->
+<p>Menopause is a state of no menstrual periods for two years in women. Menopause occurs between age 45 and 55 in most women as their estrogen levels decline.  It is likely to see low levels of progesterone and male hormones as one ages.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Associated Symptoms</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Hot flushes</li><li>Night sweats</li><li>Vaginal dryness</li><li>Insomnia</li><li>Low mood or anxiety</li><li>Low libido</li><li>Impaired Memory and concentration</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 1</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/adrenocortex-profile-basic-female-hormones-test/" target="_blank" rel="noreferrer noopener">Adrenocortex +Female Hormones Code 1010</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 2</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/thyroid-hormone-tsh-test-extensive/" target="_blank" rel="noreferrer noopener">Thyroid Hormone Profile Code 1114</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 3</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/advanced-dried-urine-hormone-profile-dutch-test/" target="_blank" rel="noreferrer noopener">Advanced Hormones Dried Urine Code 1501</a></p>
+<!-- /wp:paragraph -->
