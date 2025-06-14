@@ -1,1 +1,0 @@
-<!-- wp:shortcode -->[bookingpress_appointment_reschedule]<!-- /wp:shortcode -->

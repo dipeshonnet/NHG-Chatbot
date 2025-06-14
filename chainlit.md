@@ -1,1 +1,0 @@
-hide_chainlit_branding: true

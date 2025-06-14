@@ -1,3 +1,0 @@
-<!-- wp:amelia/step-booking-gutenberg-block -->
-<div class="wp-block-amelia-step-booking-gutenberg-block">[ameliastepbooking]</div>
-<!-- /wp:amelia/step-booking-gutenberg-block -->
