@@ -1,0 +1,11 @@
+<!-- wp:paragraph -->
+<p>There are four main blood groups (types of blood): A, B, AB, and O. Your blood group is determined by the genes you inherit from your parents. Each group can be either RhD positive or RhD negative, which means your blood group can be one of the eight types.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/blood-group-blood-edta/" target="_blank" rel="noreferrer noopener">Blood Group Code 6001</a></p>
+<!-- /wp:paragraph -->

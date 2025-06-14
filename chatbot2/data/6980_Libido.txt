@@ -1,0 +1,35 @@
+<!-- wp:paragraph -->
+<p>Libido all desire for sexual activity may be impaired by a combination of both biological and personal factors. A lack of libido may be associated with hormonal imbalance, stress, performance anxiety, fatigue, stress, and depression, lack of exercise, trauma or sexual incompatibility.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Associated Symptoms</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Hormonal imbalance</li><li>Stress</li><li>Anxiety</li><li>Trauma</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 1</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/hormone-imbalance-test-female/" target="_blank" rel="noreferrer noopener">Female Hormone Profile - Basic Code 1005</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 2</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/hormone-imbalance-test-male-extensive/" target="_blank" rel="noreferrer noopener">Male Hormone Profile - Extensive Code 1008</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 3</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/adrenal-fatigue-test/" target="_blank" rel="noreferrer noopener">Adrenocortex Basic Code 1001</a></p>
+<!-- /wp:paragraph -->

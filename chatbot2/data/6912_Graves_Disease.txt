@@ -1,0 +1,35 @@
+<!-- wp:paragraph -->
+<p>Graves’ disease is an autoimmune thyroid disease when the thyroid gland produces too many Thyroid hormones and becomes overactive. It affects middle-aged women and may be genetic.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Associated Symptoms</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Irregular heartbeat</li><li>Nervousness</li><li>Anxiety</li><li>Hyperactivity</li><li>Mood swings</li><li>Difficulty sleeping</li><li>Muscle weakness</li><li>Fatigue</li><li>Persistent thirst</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Relevant test 1</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/thyroid-hormone-tsh-test-extensive/" target="_blank" rel="noreferrer noopener">Thyroid Hormone Profile Code 1114</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant test 2</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/thyroid-essential-co-factors-test/" target="_blank" rel="noreferrer noopener">Thyroid Co-Factors Code 1310</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant test 3</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/autoimmune-assessment-comprehensive/" target="_blank" rel="noreferrer noopener">Autoimmune assessment – Comprehensive Code 3431</a></p>
+<!-- /wp:paragraph -->

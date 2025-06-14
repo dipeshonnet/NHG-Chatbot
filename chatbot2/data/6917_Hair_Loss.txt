@@ -1,0 +1,43 @@
+<!-- wp:paragraph -->
+<p>Hair loss or alopecia may be associated with hormonal dysfunction or scarring. Alopecia areata is seen as patches of baldness on the scalp and may be associated with an overactive thyroid, diabetes, or Down syndrome. Scarring aloe please see could be associated with scleroderma, connective tissue breakdown or lichen planus, and itchy rash.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Associated Symptoms</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Hair loss</li><li>Thyroid symptoms</li><li>Hormonal symptoms</li><li>Stress</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 1</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/adrenal-fatigue-test/" target="_blank" rel="noreferrer noopener">Adrenocortex Basic Code 1001</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 2</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/adrenocortex-profile-basic-female-hormones-test/" target="_blank" rel="noreferrer noopener">Hormones Female</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Or</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/adrenocortex-stress-male-basic-test/" target="_blank" rel="noreferrer noopener">Hormones Male</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 3</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/thyroid-hormone-tsh-test-extensive/" target="_blank" rel="noreferrer noopener">Thyroid Hormone Profile Code 1114</a></p>
+<!-- /wp:paragraph -->

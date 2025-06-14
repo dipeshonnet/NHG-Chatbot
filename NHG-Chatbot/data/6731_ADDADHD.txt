@@ -1,0 +1,43 @@
+<!-- wp:paragraph -->
+<p>ADHD stands for attention deficit hyperactivity disorder, a condition with symptoms such as inattentiveness, impulsivity,<br>and hyperactivity.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Associated Symptoms</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Inattentiveness</li><li>Hyperactivity</li><li>Impulsiveness</li><li>Short attention span</li><li>Careless</li><li>Forgetful</li><li>Restlessness</li><li>unable to listen or carry out instructions</li><li>Difficulty in organizing tasks</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 1</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/neurotransmitter-test-advanced/" target="_blank" rel="noreferrer noopener">Advanced Neurotransmitters Test Code 4036</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 2</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/pfeiffer-test/" target="_blank" rel="noreferrer noopener">Pfeiffer Profile Code 3415</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Or</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/pfeiffer-test-extensive/" target="_blank" rel="noreferrer noopener">Pfeiffer Prole Code 3416</a><br></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 3</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/hair-mineral-analysis-extensive/" target="_blank" rel="noreferrer noopener">Hair Mineral Analysis Level 2 Code 5014</a></p>
+<!-- /wp:paragraph -->

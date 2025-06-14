@@ -1,0 +1,35 @@
+<!-- wp:paragraph -->
+<p>Premenopausal, perimenopause, or menopause is a transition in a woman when the ovaries gradually make less estrogen and stop releasing eggs. Symptoms of premenopausal may vary in intensity from heavy to no periods or varying frequencies of periods.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Associated Symptoms</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Hot flashes</li><li>Breast tenderness</li><li>Worse premenstrual syndrome</li><li>Lower sex drive</li><li>Fatigue</li><li>Irregular periods</li><li>Vaginal dryness</li><li>Discomfort during sex</li><li>Urine leakage when coughing or sneezing</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 1</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/adrenocortex-profile-basic-female-hormones-test/" target="_blank" rel="noreferrer noopener">Adrenocortex +Female Hormones Code 1010</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 2</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/thyroid-hormone-tsh-test-extensive/" target="_blank" rel="noreferrer noopener">Thyroid Hormone Profile Code 1114</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 3</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/advanced-dried-urine-hormone-profile-dutch-test/" target="_blank" rel="noreferrer noopener">Advanced Hormones Dried Urine Code 1501</a></p>
+<!-- /wp:paragraph -->

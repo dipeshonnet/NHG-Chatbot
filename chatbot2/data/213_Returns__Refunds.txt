@@ -1,0 +1,23 @@
+<p>[vc_row][vc_column][vc_column_text]</p>
+<h2> </h2>
+<h3><strong>Return Policy</strong></h3>
+<p>We offer a return policy on products that are classified as follows:</p>
+<p><strong>Incorrect product/s</strong> - This is in case we shipped the wrong product(s)<br />In the advent that the product shipped is not what was ordered, please notify Customer Service Staff, so a replacement can be sent immediately upon the incorrect product(s) being returned to us. We will require the original item to be sent back to us at our expense before a replacement product can be sent out.</p>
+<p><strong>Damaged product/s</strong><br />We only replace items if they are defective or damaged. If you need to exchange it for the same item, send us an email at contact@naturalhealthgroup.com.au and send your item to: Suite 133, 84 Manning Street, Tuncurry, NSW, 2428, Australia.</p>
+<p><strong>However:<br /></strong>Nothing we ship is already damaged - the decision to replace a product that has apparently been damaged due to rough mail handling will be at our sole discretion - the customer may have to take up the issue with their local relevant postal body.</p>
+<p><strong>Shipping</strong><br />To return your product, you should mail your product to: Suite 133, 84 Manning Street, Tuncurry, NSW, 2428, Australia</p>
+<p>You will be responsible for paying for your own shipping costs for returning your item. Shipping costs are non-refundable. If you receive a refund, the cost of return shipping will be deducted from your refund.</p>
+<p>Depending on where you live, the time it may take for your exchanged product to reach you may vary.</p>
+<h3><strong>Refund Policy</strong></h3>
+<p>Any paid orders unable to be fulfilled in good time will result in a full refund of the initial charge of the relevant item(s).  <strong>Please note that banks charge a fee for refunds (25%), if you do receive a refund bank refund fee/s will be subtracted from your original order.</strong></p>
+<p><strong>NOTE</strong> - <strong>If you accidentally order the wrong product or change your mind, a refund/replacement will NOT be issued.</strong> Please order carefully. Products that have been opened can not be refunded or exchanged.  Test products and services are non-refundable.</p>
+<p><strong>Please see NSW government regulations on refunds on the following link:</strong></p>
+<p><a href="https://www.fairtrading.nsw.gov.au/buying-products-and-services/repairs,-replacements-and-refunds" target="_blank" rel="noopener">https://www.fairtrading.nsw.gov.au/buying-products-and-services/repairs,-replacements-and-refunds</a></p>
+<p><!-- wp:paragraph --><strong>Please see QLD government regulations on refunds on the following link:</strong></p>
+<!-- /wp:paragraph -->
+<p><!-- wp:paragraph --><a href="https://www.qld.gov.au/law/your-rights/consumer-rights-complaints-and-scams/buying-products-and-services/guarantees-warranties-refunds/when-you-can-get-a-refund">https://www.qld.gov.au/law/your-rights/consumer-rights-complaints-and-scams/buying-products-and-services/guarantees-warranties-refunds/when-you-can-get-a-refund</a></p>
+<!-- /wp:paragraph -->
+<p><!-- wp:paragraph --><strong>Late or missing refunds (if applicable)</strong><br />If you haven’t received a refund yet, first check your bank account again.<br />Then contact your credit card company, it may take some time before your refund is officially posted.<br />Next, contact your bank. There is often some processing time before a refund is posted.<br />If you’ve done all of this and you still have not received your refund yet, please contact us at contact@naturalhealthgroup.com.au </p>
+<!-- /wp:paragraph -->
+<p>&nbsp;</p>
+<p>[/vc_column_text][/vc_column][/vc_row]</p>

@@ -1,0 +1,4 @@
+<div class="bpa-front-cancel-module-container">
+                <div class="bpa-front-cmc__title">Sorry to hear that you have requested for cancel the appointment.</div>
+                <div class="bpa-front-cmc__desc">We have sent an email notification for cancel appointment. So please click on the button to cancel the appointment.</div>
+            </div>

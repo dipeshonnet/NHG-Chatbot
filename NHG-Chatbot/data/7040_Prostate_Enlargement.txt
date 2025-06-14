@@ -1,0 +1,43 @@
+<!-- wp:paragraph -->
+<p>Benign prostatic hyperplasia (BPH) affects the aging male and is associated with enlargement of the prostate gland.  Enlargement of the prostate gland applies pressure on the bladder leading to difficulty in urination and hormonal imbalance. BPH if left untreated can lead to complications such as bladder stones, bladder infections, or kidney damage.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Associated Symptoms</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Difficulty in urination</li><li>Increased frequency of urination</li><li>Changes in urinary urge</li><li>Urinary incontinence</li><li>Blood in the urine</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 1</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/hormone-imbalance-test-male-extensive/" target="_blank" rel="noreferrer noopener">Male Hormone Profile – Extensive Code 1008</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 2</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/protein-tumor-markers-test/" target="_blank" rel="noreferrer noopener">Prostate Specific Antigen (PSA) Code 6112</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 3</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>ONCOTRACE Code 7006</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/contact-us/" target="_blank" rel="noreferrer noopener">Contact Us for more information about this test</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

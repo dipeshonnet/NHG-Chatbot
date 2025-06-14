@@ -1,0 +1,43 @@
+<!-- wp:paragraph -->
+<p>Hirsutism is excessive hair growth in certain parts of the body such as the face, neck, chest, or lower back. Hirsutism may be associated with hormonal dysregulation, acne, period irregularity, PCOS, questions syndrome, obesity, or the use of anabolic steroids.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Associated Symptoms</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Excessive hair growth</li><li>Acne</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 1</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/hormone-imbalance-test-female-extensive/" target="_blank" rel="noreferrer noopener">Female Hormone Profile - Extensive Code 1006</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 2</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/hormone-imbalance-test-male-extensive/" target="_blank" rel="noreferrer noopener">Male Hormone Profile - Extensive Code 1008</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 3</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/adrenocortex-profile-basic-female-hormones-test/" target="_blank" rel="noreferrer noopener">Adrenocortex Stress and Female Basic Code 1010</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Or</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/adrenocortex-stress-male-basic-test/" target="_blank" rel="noreferrer noopener">Adrenocortex Stress and male Basic Code 1011</a></p>
+<!-- /wp:paragraph -->

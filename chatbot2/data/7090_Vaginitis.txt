@@ -1,0 +1,19 @@
+<!-- wp:paragraph -->
+<p>Vaginitis is an inflammatory condition of the vagina caused by thrush, bacterial infection, trichomoniasis, STI infections, chlamydia, genital herpes, or virginal atrophy postmenopausal.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Associated Symptoms</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Abnormal vaginal discharge</li><li>Irritation or itching</li><li>Painful intercourse</li><li>Bleeding or spotting</li><li>Painful urination</li><li>Strong unpleasant smell</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 1</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/vaginal-microbiome-dysbiosis-test/" target="_blank" rel="noreferrer noopener">Vaginal Microbiome Profile Code 2031</a></p>
+<!-- /wp:paragraph -->

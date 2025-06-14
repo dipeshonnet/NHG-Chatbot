@@ -1,0 +1,35 @@
+<!-- wp:paragraph -->
+<p>Hypothyroidism is a condition characterized by unusually low hormone production. It is when your thyroid gland becomes underactive and cannot produce enough hormones to regulate your metabolism. If your thyroid can't secrete enough hormones into your bloodstream, your body's metabolism slows down rapidly.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Associated Symptoms</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Tiredness</li><li>Being sensitive to cold</li><li>Weight gain</li><li>Constipation</li><li>Depression</li><li>Slow movements and thoughts</li><li>Muscle aches and weakness</li><li>Muscle cramps</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 1</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/thyroid-hormone-tsh-test-extensive/" target="_blank" rel="noreferrer noopener">Thyroid Hormone Profile Code 1114</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 2</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/selenium-deficiency-test/" target="_blank" rel="noreferrer noopener">Selenium (Red Cell) 5010</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 3</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/thyroid-essential-co-factors-test/" target="_blank" rel="noreferrer noopener">Thyroid Co-Factors Code 1310</a></p>
+<!-- /wp:paragraph -->

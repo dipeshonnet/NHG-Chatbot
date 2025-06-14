@@ -1,0 +1,43 @@
+<!-- wp:paragraph -->
+<p>Psoriasis is a skin condition that is presented as red, flaky, silvery crusty patches predominantly on elbows, knees, scalp, lower back, and ears. Psoriasis is a condition of increased production of skin cells, often genetic roots, affecting the immune system.  There are several types of psoriasis: plaque psoriasis is the most common form, scalp, nail, guttate, inverse, or pustular.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Associated Symptoms</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Itching</li><li>Soreness</li><li>Joint pain</li><li>Nail splits or dense infection</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 1</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/allergy-test-igg-general-96-foods/" target="_blank" rel="noreferrer noopener">Allergy Panel – IgG General Foods Code 3206</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 2</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/alcat-intolerance-test-200-foods/" target="_blank" rel="noreferrer noopener">ALCAT 200 Foods Code 3304</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 3</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/complete-microbiome-mapping-test/" target="_blank" rel="noreferrer noopener">Complete Microbiome Mapping Code 2206</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Or</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/gastrointestinal-function-digestive-stool-analysis-test/" target="_blank" rel="noreferrer noopener">CDSA Level 3+ Code 2006</a></p>
+<!-- /wp:paragraph -->

@@ -1,0 +1,43 @@
+<!-- wp:paragraph -->
+<p>Environmental pollution is contamination or pollution of the environment, a serious health concern today. Contamination<br>may be derived from chemical substances, energy, fuel, toxins found in foods, chemicals, pesticides, herbicides, preservatives<br>and plastics.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Associated Symptoms</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Fatigue</li><li>Mental health</li><li>Disturbances</li><li>Chronic complex Illnesses</li><li>Autoimmune disease</li><li>Allergies</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 1</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/organic-acids-metabolic-environmental-pollutant-test/" target="_blank" rel="noreferrer noopener">Organic Acids – Metabolic &amp; Environmental Pollutant Panel (urinary) Code 4017</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 2</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/alcat-intolerance-test-food-additiveschemicals-environmental-chemicals-antibioticsanti-inflammatories/" target="_blank" rel="noreferrer noopener">ALCAT Intolerance Test - Chem50</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 3</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/drinking-water-minerals-metals-test/" target="_blank" rel="noreferrer noopener">Water toxic metals screen test Code 5036</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>And</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/hair-mineral-analysis-extensive/" target="_blank" rel="noreferrer noopener">Toxic metal test Code 5013</a></p>
+<!-- /wp:paragraph -->

@@ -1,0 +1,31 @@
+<!-- wp:paragraph -->
+<p>Alzheimer’s disease is the most common form of dementia, affecting up to 70% of all people with dementia. Alzheimer’s disease can be either sporadic or familial.  Adrenal Fatigue is a decrease in the adrenal glands' ability to carry out this normal function. It is commonly caused by chronic stress from any source (including emotional, physical, mental, or environmental) that exceeds the body's capacity to adjust appropriately to the demands placed on it by the stress.<br></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Sporadic Alzheimer's disease can affect adults at any age, but usually occurs after age 65 and is the most common form of Alzheimer's disease.  Familial Alzheimer’s disease is a very rare genetic condition, caused by a mutation in one of several genes. The presence of mutated genes means that the person will eventually develop Alzheimer's disease, usually in their 40's or 50's.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Associated Symptoms</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Loss of memory</li><li>Repeating conversation</li><li>Show poor judgment</li><li>Hesitancy</li><li>Delusions</li><li>Obsession or repetitive behavior</li><li>Confusion</li><li>Loss of speech</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 1</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/apolipoprotein-e-apo-e-saliva-test-kit/" target="_blank" rel="noreferrer noopener">APOE Code 3408</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 2</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/essential-fatty-acids-red-cell-blood-edta-test/" target="_blank" rel="noreferrer noopener">Essential Fatty Acids Code 5011</a></p>
+<!-- /wp:paragraph -->

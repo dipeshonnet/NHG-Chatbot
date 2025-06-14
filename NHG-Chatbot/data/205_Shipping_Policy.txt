@@ -1,0 +1,98 @@
+<h3><strong>Shipping policy</strong></h3>
+<p><strong><em>Important note: your order processing times are separate from the shipping times seen at checkout. </em></strong></p>
+<p>All orders are processed within 1 to 3 business days (excluding weekends and holidays) after receiving your order confirmation email. You will receive another notification when your order has shipped. </p>
+<p><strong><em>Potential postal delays due to Covid 19 or a high volume of orders or postal service problems that are outside of our control.</em></strong></p>
+<h3><strong>Domestic Shipping Rates and Estimates</strong></h3>
+<p><strong><em>For calculated shipping rates: </em></strong>Shipping charges for your order will be calculated and displayed at checkout. </p>
+<table>
+<tbody>
+<tr>
+<td>
+<p><strong>Shipping option</strong></p>
+</td>
+<td>
+<p><strong>Estimated delivery time</strong></p>
+</td>
+<td>
+<p><strong>Price</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Australia Post standard small</p>
+</td>
+<td>
+<p>3 to 10 business days</p>
+</td>
+<td>
+<p>$8.15 +</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Australia Post Express</p>
+</td>
+<td>
+<p>1 to 5 business days</p>
+</td>
+<td>
+<p>$13+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4> </h4>
+<h3><strong>International Shipping</strong></h3>
+<p>We also ship internationally using express international postage to a range of countries using international express shipping (with door-to-door tracking number).<br /><br />Delivery time is 5-10 business days depending on the destination.</p>
+<p>After adding items to the shopping basket, the international shipping cost can be viewed before checking out by clicking on the calculate shipping button.</p>
+<p><strong><em>Multiple Shipping options and due to Covid 19 broader delivery timelines (e.g. 8 to 20 days) for international shipping since actual delivery times can vary greatly depending on the destination.</em></strong></p>
+<table style="height: 314px;" width="963">
+<tbody>
+<tr>
+<td>
+<p><strong>Shipping option</strong></p>
+</td>
+<td>
+<p><strong>Estimated delivery time</strong></p>
+</td>
+<td>
+<p><strong>Price</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Australia Post Standard</p>
+</td>
+<td>
+<p>10 to 60 business days</p>
+</td>
+<td>
+<p>$28+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Australia Post Express</p>
+</td>
+<td>
+<p>6 to 30 business days</p>
+</td>
+<td>
+<p>$45+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p>Your order may be subject to import duties and taxes (including VAT), which are incurred once a shipment reaches your destination country. Natural Health Group Pty Ltd is not responsible for these charges if they are applied and are your responsibility as the customer.</p>
+<h3><strong>How do I check the status of my order?</strong></h3>
+<p>When your order has shipped, you will receive an email notification from us which will include a tracking number you can use to check its status. Please allow 48 hours for the tracking information to become available. </p>
+<p>If you haven’t received your order within 30 days of receiving your shipping confirmation email, please contact us at contact@naturalhealthgroup.com.au with your name and order number, and we will look into it for you.</p>
+<h3><strong>Refunds, returns, and exchanges</strong></h3>
+<p>We accept returns up to 30 days after delivery, if the item is unused and in its original condition, and we will refund the full order amount minus the shipping costs for the return. </p>
+<p>In the event that your order arrives damaged in any way, please email us as soon as possible at contact@naturalhealthgroup.com.au with your order number and a photo of the item’s condition. We address these on a case-by-case basis but will try our best to work towards a satisfactory solution.</p>
+<p>If you have any further questions, please don't hesitate to contact us at contact@naturalhealthgroup.com.au</p>
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

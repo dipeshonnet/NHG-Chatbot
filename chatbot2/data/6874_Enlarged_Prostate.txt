@@ -1,0 +1,47 @@
+<!-- wp:paragraph -->
+<p>Benign prostatic hyperplasia (BPH) is common in the aging man and is associated with prostate enlargement, prostatitis or<br>inflammation of the prostate, or prostate cancer. The prostate gland surrounds the urethra which ordinarily produces a thick<br>white fluid mixed with sperm to create semen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Associated Symptoms</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Difficulty starting or stopping urination</li><li>Weak ow of urine</li><li>Straining when urinating, a feeling of not being able to fully empty the bladder</li><li>Urine dribbling after finished</li><li>Increased frequency of urination</li><li>Waking to urinate during the night</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 1</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/hormone-imbalance-test-male-extensive/" target="_blank" rel="noreferrer noopener">Male Hormone Profile - Extensive Code 1008</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>And or</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/adrenal-fatigue-test/" target="_blank" rel="noreferrer noopener">Adrenocortex Stress Prole code 1001</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 2</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>ONCOTRACE Code 7006</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/contact-us/" target="_blank" rel="noreferrer noopener">Contact Us for more information about this test</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 3</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/protein-tumor-markers-test/" target="_blank" rel="noreferrer noopener">Protein Tumour Markers Codes 6106 – 6112</a></p>
+<!-- /wp:paragraph -->

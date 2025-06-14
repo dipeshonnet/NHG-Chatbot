@@ -1,0 +1,43 @@
+<!-- wp:paragraph -->
+<p>Memory loss, also called amnesia, happens when a person loses the ability to remember information and events they would normally be able to recall. It could be something that happened seconds or minutes ago or a memorable event that occurred in the past. The loss of memory may have started suddenly, or it may have been getting worse over the last year or so.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Associated Symptoms</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Headaches</li><li>Irritability</li><li>Forgetfulness</li><li>Confusion</li><li>Anxiety</li><li>Fatigue</li><li>Poor concentration</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 1</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/adrenal-fatigue-test/" target="_blank" rel="noreferrer noopener">Adrenocortex Stress Prole code 1001</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 2</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/organic-acids-metabolomic-mapping-test/" target="_blank" rel="noreferrer noopener">Organic Comprehensive Code 4041</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 3</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/thyroid-hormone-tsh-test-extensive/" target="_blank" rel="noreferrer noopener">Thyroid Hormone Profile Code 1114</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Advanced Information</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/brain-fog-the-genetic-advantage-ebook/" target="_blank" rel="noreferrer noopener">Brain Fog Genes - Ebook</a></p>
+<!-- /wp:paragraph -->

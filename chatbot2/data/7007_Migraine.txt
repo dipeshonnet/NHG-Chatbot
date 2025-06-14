@@ -1,0 +1,35 @@
+<!-- wp:paragraph -->
+<p>Migraines are moderate or severe headaches felt as a throbbing pain on one side of the head. Migraines can be associated with auras, ashing lights, or no auras.  Migraines can be caused by hormonal imbalance, stress, fatigue, or certain dietary changes.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Associated Symptoms</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Nausea</li><li>Vomiting</li><li>Increase sensitivity to light and sound</li><li>Concentration abdominal pain</li><li>Diarrhea</li><li>Headache numbness or tingling</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 1</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/adrenal-fatigue-test/" target="_blank" rel="noreferrer noopener">Adrenocortex Basic Code 1001</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 2</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/allergy-test-igg-general-96-foods/" target="_blank" rel="noreferrer noopener">Allergy Panel – IgG General Foods Code 3206</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 3</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/hormone-imbalance-test-female/" target="_blank" rel="noreferrer noopener">Female Hormone Profile Saliva Code 1005</a></p>
+<!-- /wp:paragraph -->

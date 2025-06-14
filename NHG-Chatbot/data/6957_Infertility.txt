@@ -1,0 +1,42 @@
+<!-- wp:paragraph -->
+<p>Infertility is associated with an inability to conceive which may be due to an imbalance of hormones both in the male and female. Common causes of infertility may include a lack of regular ovulation, blockage of fallopian tubes, endometriosis, low sperm count, or poor semen quality.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Associated Symptoms</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul>
+<li>Hormonal imbalance</li>
+<li>Thyroid imbalance</li>
+<li>Polycystic ovary syndrome</li>
+<li>Ovarian failure</li>
+</ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 1</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/female-hormone-profile-blood-test/" target="_blank" rel="noreferrer noopener">Female Hormones Blood Code 1104</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 2</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/female-menstrual-cycle-hormone-test-28-day/" target="_blank" rel="noreferrer noopener">Female Cycle (28 Day) Hormone Profile Code 1004</a></p>
+<p><strong>OR</strong></p>
+<p><a href="https://www.naturalhealthgroup.com.au/product/female-fertility-profile-test/" target="_blank" rel="noopener">Female Fertility Profile 1014</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 3</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/thyroid-hormone-tsh-test-extensive/" target="_blank" rel="noreferrer noopener">Thyroid Hormone Profile Code 1114</a></p>
+<!-- /wp:paragraph -->

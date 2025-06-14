@@ -1,0 +1,43 @@
+<!-- wp:paragraph -->
+<p>Indigestion or dyspepsia is a condition of pain or discomfort felt in the stomach leading to heartburn. When acid moves from the stomach into the esophagus, it creates a burning sensation behind the breastbone. Indigestion could be caused by a lack of stomach acid, acid reflux, medications, obesity, pregnancy, or a bad diet.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Associated Symptoms</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Bloated</li><li>Feeling sick</li><li>Belching</li><li>Flatulence</li><li>Regurgitating food or fluid from the stomach</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 1</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/complete-microbiome-mapping-test/" target="_blank" rel="noreferrer noopener">Complete Microbiome Mapping Code 2206</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Or</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/gastrointestinal-function-digestive-stool-analysis-test/" target="_blank" rel="noreferrer noopener">CDSA Level 3+ Code 2006</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 2</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/pancreatic-elastase-1-test/" target="_blank" rel="noreferrer noopener">Pancreatic Elastase 1 (Faecal) Code 2014</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 3</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/allergy-test-igg-general-96-foods/" target="_blank" rel="noreferrer noopener">Allergy Panel – IgG General Foods Code 3206</a></p>
+<!-- /wp:paragraph -->

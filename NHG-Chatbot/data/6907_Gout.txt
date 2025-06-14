@@ -1,0 +1,31 @@
+<!-- wp:paragraph -->
+<p>Gout is an arthritic condition associated with an accumulation of uric acid crystals in and around the joints. It causes sudden<br>attacks of pain and swelling and may be painful and debilitating.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Severe pain in one or more joints</li><li>Hot and tender joint</li><li>Swelling in and around the affected joint</li><li>Redness and inflammation</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 1</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="EPA Code 5001" target="_blank" rel="noreferrer noopener">AA:EPA Code 5001</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 2</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/allergy-test-igg-general-96-foods/" target="_blank" rel="noreferrer noopener">Allergy Panel – IgG General Foods Code 3206</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 3</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/comprehensive-metabolic-profile-test/" target="_blank" rel="noreferrer noopener">Uric acid profile</a></p>
+<!-- /wp:paragraph -->

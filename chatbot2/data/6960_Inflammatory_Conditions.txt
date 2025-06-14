@@ -1,0 +1,51 @@
+<!-- wp:paragraph -->
+<p>Inflammation is a self-protection mechanism within the body that aims to remove harmful stimuli, irritants, or pathogens to stimulate a healing process.  Inflammation may be associated with pain, swelling or supurration. Acute inflammation starts rapidly and becomes severe, e.g. bronchitis, u or meningitis.  Chronic inflammation is usually long-term resulting from an autoimmune response to a self-antigen where the immune system attacks healthy tissue. e.g. asthma, rheumatoid arthritis, peptic ulcer, sinusitis.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Associated Symptoms</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Pain</li><li>Swelling and redness</li><li>Heat</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 1</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/gout/EPA%20Code%205001" target="_blank" rel="noreferrer noopener">AA:EPA Code 5001</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Or</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/essential-fatty-acids-red-cell-blood-edta-test/" target="_blank" rel="noreferrer noopener">Essential Fatty Acids Code 5011</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 2</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/autoimmune-assessment-comprehensive/" target="_blank" rel="noreferrer noopener">Autoimmune assessment – Comprehensive Code 3431</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 3</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="http://C-Reactive Protein" target="_blank" rel="noreferrer noopener">C-Reactive Protein</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Or </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/inflammation-profile-test/" target="_blank" rel="noreferrer noopener">Ferritin</a></p>
+<!-- /wp:paragraph -->

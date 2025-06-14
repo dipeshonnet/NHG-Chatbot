@@ -1,0 +1,43 @@
+<!-- wp:paragraph -->
+<p>Crohn’s disease is long-term inflammation of the gastrointestinal tract, most commonly found in the small intestine ( ileum) or large intestine (colon). Many can be asymptomatic.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Associated Symptoms</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Diarrhea</li><li>Abdominal pain</li><li>Fatigue</li><li>blood or mucus in the stool</li><li>Unintended weight loss</li><li>Joint pain and swelling</li><li>Nausea and vomiting</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 1</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/calprotectin-fecal-test/" target="_blank" rel="noreferrer noopener">Calprotectin Code 2001</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 2</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/gut-immunity-test-secretory-iga-siga/" target="_blank" rel="noreferrer noopener">Secretory IgA Code 3007</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 3</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/complete-microbiome-mapping-test/" target="_blank" rel="noreferrer noopener">Complete Microbiome Mapping Code 2206</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Or</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/gastrointestinal-function-digestive-stool-analysis-test/" target="_blank" rel="noreferrer noopener">CDSA Level 3+ Code 2006</a></p>
+<!-- /wp:paragraph -->

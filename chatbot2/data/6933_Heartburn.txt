@@ -1,0 +1,43 @@
+<!-- wp:paragraph -->
+<p>Heartburn is a common gastrointestinal reflux disease (GORD) where acid from the stomach leaks up into the esophagus.  Complications of GORD may include ulcers in the esophagus, scarring or narrowing of the esophagus, or changes in the cell lining of the esophagus (Barrett’s esophagus).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Associated Symptoms</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Unpleasant taste in the back of the mouth</li><li>Gastric reflux</li><li>Burning sensation or heartburn</li><li>Esophagitis</li><li>Bad breath</li><li>Bloating or belching</li><li>Difficulty swallowing</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 1</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/complete-microbiome-mapping-test/" target="_blank" rel="noreferrer noopener">Complete Microbiome Mapping Code 2206</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Or</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/gastrointestinal-function-digestive-stool-analysis-test/" target="_blank" rel="noreferrer noopener">CDSA Test Code 2006</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 2</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/gastrointestinal-function-digestive-stool-analysis-test/" target="_blank" rel="noreferrer noopener">CDSA Level 3+ Code 2006</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 3</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/liposcreen-ldl-subfractions-blood-sst-test/" target="_blank" rel="noreferrer noopener">LDL Subfractions Code 4028</a></p>
+<!-- /wp:paragraph -->

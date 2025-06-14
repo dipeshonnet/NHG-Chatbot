@@ -1,0 +1,27 @@
+<!-- wp:paragraph -->
+<p>Rosacea is a long-term skin condition affecting the face leading to episodes of ushing and redness. Rosaceae may be associated with lupus or menopause and can be aggravated by alcohol, caffeine, stress, sun exposure, spicy foods, and strenuous exercise.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Associated Symptoms</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Flushing</li><li>Persistent facial redness</li><li>Visible blood vessels</li><li>Thickened skin</li><li>Pustules or papules</li><li>Burning, itching, stinging skin</li><li>Dry rough skin</li><li>Facial swelling</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 1</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/hormone-imbalance-test-female/" target="_blank" rel="noreferrer noopener">Female Hormone Profile – Basic Code 1005</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 2</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/allergy-test-igg-general-96-foods/" target="_blank" rel="noreferrer noopener">Allergy Panel – IgG General Foods Code 3206</a></p>
+<!-- /wp:paragraph -->

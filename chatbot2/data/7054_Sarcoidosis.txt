@@ -1,0 +1,19 @@
+<!-- wp:paragraph -->
+<p>Sarcoidosis is an inflammatory condition that causes swelling and redness of tissue called granuloma to develop in the lungs and skin predominantly. Sarcoidosis affects the immune system by presenting as inflammatory conditions such as rheumatoid arthritis or lupus.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Associated Symptoms</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Red bumps on the skin</li><li>Shortness of breath</li><li>Persistent cough</li><li>Swollen glands</li><li>Painful joints</li><li>Abnormal heart rhythm</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 1</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/gout/EPA%20Code%205001" target="_blank" rel="noreferrer noopener">AA:EPA Code 5001</a></p>
+<!-- /wp:paragraph -->

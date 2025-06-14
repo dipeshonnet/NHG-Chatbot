@@ -1,0 +1,35 @@
+<!-- wp:paragraph -->
+<p>Fibromyalgia is an autoimmune condition associated with pain all over the body.  Fibromyalgia is a complex condition that may be caused by genetic defects, imbalances in neurotransmitters, infections, chronic stress, or nutrient deficiencies.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Associated Symptoms</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Increased sensitivity to pain</li><li>Muscle stiffness</li><li>Difficulty sleeping</li><li>Extreme fatigue</li><li>Headaches</li><li>Mental health disturbances</li><li>Irritable bowel syndrome</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 1</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/hla-dq-dr-genetic-studies-test/" target="_blank" rel="noreferrer noopener">HLADQ/DR code 3401</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 2</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/aaepa-ratio-blood-spot-test/" target="_blank" rel="noreferrer noopener">AA : EPA Ratio Code 5001</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 3</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/organic-acids-metabolomic-mapping-test/" target="_blank" rel="noreferrer noopener">Organic Comprehensive Code 4041</a></p>
+<!-- /wp:paragraph -->

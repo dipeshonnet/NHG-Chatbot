@@ -1,0 +1,27 @@
+<!-- wp:paragraph -->
+<p>Methylation ease and epigenetic mechanisms by used by cells to control gene expression. Methylation is a vital metabolic process that happens in each cell for life sustenance. Methylation is necessary for infection control, making chemicals and neurotransmitters next in the body protects the tags or telomeres on the genes.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Associated Symptoms</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Depression</li><li>Anxiety</li><li>Infertility</li><li>Hair loss</li><li>Anemia</li><li>Memory loss</li><li>Hypothyroidism</li><li>Cardiovascular disease</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 1</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/methylation-profile-test/" target="_blank" rel="noreferrer noopener">Methylation Profile Code 5101</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 2</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/advanced-methylation-test/" target="_blank" rel="noreferrer noopener">Advanced Methylation Genes Code 8009</a></p>
+<!-- /wp:paragraph -->

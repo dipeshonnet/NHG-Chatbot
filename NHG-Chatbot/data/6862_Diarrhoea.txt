@@ -1,0 +1,43 @@
+<!-- wp:paragraph -->
+<p>Diarrhea can be caused as a result of dysentery, and food poisoning and is associated with gastroenteritis and gastrointestinal infections. Persistent diarrhea can lead to symptoms of dehydration which can be particularly dangerous, especially in the young.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Associated Symptoms</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Loose stool</li><li>Diarrhea and vomiting</li><li>Watery stool</li><li>Blood in the stool</li><li>Abdominal pain</li><li>Dehydration</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 1</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/complete-microbiome-mapping-test/" target="_blank" rel="noreferrer noopener">Complete Microbiome Mapping Code 2206</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Or</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/gastrointestinal-function-digestive-stool-analysis-test/" target="_blank" rel="noreferrer noopener">CDSA Level 3+ Code 2006</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 2</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/intestinal-permeability-and-leaky-gut-test/" target="_blank" rel="noreferrer noopener">Intestinal Permeability Test Code 2011</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 3</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/gut-immunity-test-secretory-iga-siga/" target="_blank" rel="noreferrer noopener">Secretory IgA Code 3006</a></p>
+<!-- /wp:paragraph -->

@@ -1,0 +1,47 @@
+<!-- wp:paragraph -->
+<p>When you have an autoimmune disease, your immune system attacks your own body. With alopecia, it’s the hair follicles that<br>are attacked. This causes the hair to come out, often in clumps the size and shape of a quarter. The amount of hair loss is<br>different for everyone. Some people lose it only in a few spots.  Others lose a lot.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Associated Symptoms</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Hair loss</li><li>Thinning of the hair</li><li>Patches of hair falling out</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 1</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/stress/stress-adrenal-fatigue-stress-syndrome/" target="_blank" rel="noreferrer noopener">Adrenocortex Basic Code 1001</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 2</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/thyroid-hormone-tsh-test-extensive/" target="_blank" rel="noreferrer noopener">Thyroid Hormone Prole Code 1114</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Tests 3</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Female:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/hormone-imbalance-test-female/" target="_blank" rel="noreferrer noopener">Female Hormone Profile Code 1005</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Male:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/hormone-imbalance-test-male/" target="_blank" rel="noreferrer noopener">Male Hormone Profile Code 1007</a></p>
+<!-- /wp:paragraph -->

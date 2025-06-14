@@ -1,0 +1,27 @@
+<!-- wp:paragraph -->
+<p>Cardiovascular disease (CVD) is a general term for conditions affecting the heart or blood vessels. It's usually associated with a build-up of fatty deposits inside the arteries – known as atherosclerosis – and an increased risk of blood clots. It can also be associated with damage to arteries in organs such as the brain, heart, kidneys, and eyes. CVD is one of the main causes of death and disability in the UK, but it can often largely be prevented with a healthy lifestyle.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Associated Symptoms</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Suffocation or restriction</li><li>Tension in the jaw, neck, or face</li><li>Dizziness</li><li>Chest pain</li><li>Heartburn</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 1</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/cardiovascular-profile-comprehensive-2-blood-test/" target="_blank" rel="noreferrer noopener">Cardiovascular Profile Code 4027</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 2</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/my-cardiovascular-medication-dna-test/" target="_blank" rel="noreferrer noopener">My Cardiovascular Medication DNA Profile code 8015</a></p>
+<!-- /wp:paragraph -->

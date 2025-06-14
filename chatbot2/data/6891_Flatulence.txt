@@ -1,0 +1,43 @@
+<!-- wp:paragraph -->
+<p>Flatulence is the passing of gas or wind from the digestive tract.  Excessive flatulence may be uncomfortable and could be associated with imbalances of the gastrointestinal tract, e.g.  Irritable bowel syndrome, indigestion, or SIBO. There are several causes of flatulence such as swallowing excess air through<br>chewing, smoking, sucking, or loose-fitting dentures; consumption of carbonated drinks; wind-producing foods such as beans, cabbage, and pulses.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Associated Symptoms</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Passing wind</li><li>Abdominal cramps</li><li>Belching</li><li>Bloating</li><li>Pain in the gut</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 1</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/complete-microbiome-mapping-test/" target="_blank" rel="noreferrer noopener">Complete Microbiome Mapping Code 2206</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Or</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/gastrointestinal-function-digestive-stool-analysis-test/" target="_blank" rel="noreferrer noopener">CDSA Level 3+ Code 2006</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 2</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/allergy-test-igg-general-96-foods/" target="_blank" rel="noreferrer noopener">Allergy Panel – IgG General Foods Code 3206</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 3</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/gluten-sensitivity-genetic-test/" target="_blank" rel="noreferrer noopener">Gluten Sensitivity Genetic Test Code 2019</a></p>
+<!-- /wp:paragraph -->

@@ -1,0 +1,27 @@
+<!-- wp:paragraph -->
+<p>Cholesterol is a fatty substance known as a lipid and is vital for the normal functioning of the body. It's mainly made by the liver, but can also be found in some foods. Having an excessively high level of lipids in your blood (hyperlipidemia) can have an effect on your health. High cholesterol itself doesn't usually cause any symptoms, but it increases your risk of serious health conditions.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Associated Symptoms</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Angina from heart disease</li><li>Fatty skin deposits on the elbows, buttocks, knees, and tendons</li><li>Cholesterol deposits around the eyelids</li><li>Cholesterol deposits around the corneas</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 1</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/cardiovascular-profile-comprehensive-2-blood-test/" target="_blank" rel="noreferrer noopener">Cardiovascular Profile Code 4027</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 2</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/my-cardiovascular-medication-dna-test/" target="_blank" rel="noreferrer noopener">My Cardiovascular Medication DNA Profile code 8015</a></p>
+<!-- /wp:paragraph -->

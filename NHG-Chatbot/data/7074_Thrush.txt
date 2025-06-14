@@ -1,0 +1,43 @@
+<!-- wp:paragraph -->
+<p>Thrush is an uncomfortable fungal infestation occurring in males and females. The giant all thrush is common in females and may be associated with vaginal discharge, sexually transmitted infections genital herpes, and is particularly common in pregnancy. Fungal infections of the mouth also known as<br>oral candidiasis is known as oral thrush commonly seen in babies and adults alike.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Associated Symptoms</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>White patches or plaques on the tongue</li><li>Loss of or unpleasant taste</li><li>Redness inside mouth and throat</li><li>Painful burning sensation in mouth or vagina</li><li>Vaginal discharge</li><li>Pain during sex</li><li>Stinging sensation with urination</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 1</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/candida-test/" target="_blank" rel="noreferrer noopener">Candida Antibodies/Antigen (Serum) Code 3001</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 2</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/complete-microbiome-mapping-test/" target="_blank" rel="noreferrer noopener">Complete Microbiome Mapping Code 2206</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Or</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/gastrointestinal-function-digestive-stool-analysis-test/" target="_blank" rel="noreferrer noopener">CDSA Level 3+ Code 2006</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 3</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/vaginal-microbiome-dysbiosis-test/" target="_blank" rel="noreferrer noopener">Vaginal Microbiome Code 2031</a></p>
+<!-- /wp:paragraph -->

@@ -1,0 +1,47 @@
+<!-- wp:paragraph -->
+<p>Dermatitis is an inflammatory skin condition that presents as irritation, rash, and itching caused by allergies, irritants, or photo contact. Dermatitis can be caused by contact with irritants such as bleach or detergents, using latex gloves, wearing jewelry, or application of skin creams.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Associated Symptoms</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Dry scaly skin</li><li>Hives</li><li>Blisters</li><li>Skin redness</li><li>Itching</li><li>Sun sensitivity</li><li>Swelling</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Relevant Tests 1</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product-category/allergy-testing/" target="_blank" rel="noreferrer noopener">Allergy Panel – IgA Foods</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product-category/allergy-testing/" target="_blank" rel="noreferrer noopener">Allergy Panel – IgG Foods</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product-category/allergy-testing/" target="_blank" rel="noreferrer noopener">Allergy Panel – IgE Foods</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/allergy-test-igg-inhalants-16-allergens/" target="_blank" rel="noreferrer noopener">Allergy inhalants</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 2</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/vitamin-d-test-lcms/" target="_blank" rel="noreferrer noopener">Vitamin D Code 1115</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 3</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/cdsa-level-1-comprehensive-digestive-stool-analysis-test/" target="_blank" rel="noreferrer noopener">CDSA Level 1 Code 2003</a></p>
+<!-- /wp:paragraph -->

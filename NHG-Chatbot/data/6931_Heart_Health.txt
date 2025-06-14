@@ -1,0 +1,27 @@
+<!-- wp:paragraph -->
+<p>Heart or cardiovascular health dysfunction can be associated with angina, coronary artery disease, mitral valve problems, high blood pressure, hypercholesterolemia, or heart disease.  Heart conditions are the leading cause of surgery and death.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Associated Symptoms</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Suffocation or restriction</li><li>Tension in the jaw, neck, or face</li><li>Dizziness</li><li>Chest pain</li><li>Heartburn</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 1</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/cardiovascular-profile-comprehensive-2-blood-test/" target="_blank" rel="noreferrer noopener">Cardiovascular Profile Code 4027</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 2</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/essential-fatty-acids-test-omega-3-6-9-epa-dha/" target="_blank" rel="noreferrer noopener">Omega 3 Index Code 5029</a></p>
+<!-- /wp:paragraph -->

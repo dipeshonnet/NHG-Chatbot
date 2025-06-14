@@ -1,0 +1,47 @@
+<!-- wp:paragraph -->
+<p>Bowel cancer is a general term for cancer that begins in the large bowel. Depending on where cancer starts, bowel cancer is sometimes called colon or rectal cancer. Bowel cancer is one of the most common types of cancer diagnosed in the UK. Most people diagnosed are over the age of 60.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Associated Symptoms</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Blood in the stool</li><li>Abdominal pain</li><li>Abdominal bloating</li><li>Sudden weight loss</li><li>Change in bowel habits</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 1</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/m2-pyruvate-kinase-m2-pk-stool-test/" target="_blank" rel="noreferrer noopener">M2 Pyruvate Kinase (M2PK) (Faecal) Code 2012</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 2</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>ONCOTRACE Code 7006</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Or</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>ONCONOMICS PLUS Code 7003</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/contact-us/" target="_blank" rel="noreferrer noopener">Contact Us for more information about these 2 tests.</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 3</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/ca15-3-blood-sst-test/" target="_blank" rel="noreferrer noopener">CA 15-3 Code 6109</a></p>
+<!-- /wp:paragraph -->

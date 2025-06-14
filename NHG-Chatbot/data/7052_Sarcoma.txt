@@ -1,0 +1,43 @@
+<!-- wp:paragraph -->
+<p>Sarcomas or bone cancers can present as an Ewing, a rare form of bone cancer or soft tissue cancer. Kaposi sarcoma is cancer caused by a virus such as HIV. Soft tissue sarcoma affects tissues that connect to or surround other body structures or organs including tendons and ligaments. Each type of sarcoma has its own etiology, symptom, and treatment regime.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Associated Symptoms</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Pain in the affected area</li><li>Swelling and tenderness</li><li>Fever</li><li>Fatigue</li><li>Weight loss</li><li>Coughing up blood</li><li>Chest pain</li><li>Lymphoedema</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 1</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>ONCOTRACE Code 7006</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Or</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>ONCONOMICS PLUS Code 7003</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/contact-us/" target="_blank" rel="noreferrer noopener">Contact Us for more information about this test</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 2</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>ONCOTRAIL Sarcoma Code 7007</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/contact-us/" target="_blank" rel="noreferrer noopener">Contact Us for more information about this test</a>.</p>
+<!-- /wp:paragraph -->

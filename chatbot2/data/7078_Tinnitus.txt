@@ -1,0 +1,19 @@
+<!-- wp:paragraph -->
+<p>Tinnitus or ringing in the ears may be debilitating and can affect moods and sleep. Tinnitus is associated with age-related hearing loss, in-ear damage, earwax build-up, vertigo, minis disease, or otosclerosis.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Associated Symptoms</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Buzzing</li><li>Humming</li><li>Grinding</li><li>Ringing</li><li>Hissing</li><li>Whistling sounds</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 1</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/adrenal-fatigue-test/" target="_blank" rel="noreferrer noopener">Adrenocortex Code 1001</a></p>
+<!-- /wp:paragraph -->

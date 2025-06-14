@@ -1,0 +1,27 @@
+<!-- wp:paragraph -->
+<p>Food intolerance is a delayed reaction when exposed to specific offending foods. The statistic of food intolerance has arisen over recent years possibly due to adulteration of foods, GMO modification, genetic defects, and processing of foods.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Associated Symptoms</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Abdominal bloating</li><li>abdominal pain</li><li>Diarrhea</li><li>Skin rashes and itching</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 1</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product-category/allergy-testing/" target="_blank" rel="noreferrer noopener">Allergy Panel - IgG and or IgA</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 2</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/alcat-intolerance-test-platinum/" target="_blank" rel="noreferrer noopener"><a href="https://www.naturalhealthgroup.com.au/product-category/alcat/" target="_blank" rel="noreferrer noopener">ALCAT Intolerance - Foods, Chemicals, Food additives, Environmental pollutants, Moulds</a></a></p>
+<!-- /wp:paragraph -->

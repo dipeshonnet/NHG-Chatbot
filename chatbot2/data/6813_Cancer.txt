@@ -1,0 +1,59 @@
+<!-- wp:paragraph -->
+<p>Cancer is a condition where cells in a specific part of the body grow and reproduce uncontrollably. The cancerous cells can invade and destroy surrounding healthy tissue, including organs. Cancer sometimes begins in one part of the body before spreading to other areas. This process is known as metastasis. More than one in three people will develop some form of cancer during their lifetime.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Associated Symptoms</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Sudden weight loss</li><li>Persistent cough</li><li>Blood tinged saliva</li><li>Severe bowel changes</li><li>Unexplained anemia</li><li>Unusual lumps</li><li>Changes in urination</li><li>Unusual bleeding</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 1</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>ONCOTRACE Code 7006</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Or</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>ONCONOMICS PLUS Code 7003</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/contact-us/" target="_blank" rel="noreferrer noopener">Contact Us for more information about these 2 tests.</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/nagalase-test-australia/" target="_blank" rel="noreferrer noopener">Nagalase test Code 7011</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/colon-cancer-and-other-cancer-carcinoembryonic-antigen-cea-test/" target="_blank" rel="noreferrer noopener">CEA test Code 6107</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 2</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>aCGH Code 7013 (if the origin of primary<br>is unknown)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/contact-us/" target="_blank" rel="noreferrer noopener">Contact Us for more information about this test.</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Relevant Test 3</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.naturalhealthgroup.com.au/product/protein-tumor-markers-test/" target="_blank" rel="noreferrer noopener">Protein Tumour Markers Codes 6106 - 6112</a></p>
+<!-- /wp:paragraph -->
