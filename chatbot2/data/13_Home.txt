@@ -1,8 +1,0 @@
-<p>[vc_row][vc_column][vc_column_text]</p>
-<h3>Welcome to Natural Health Group!  The home of advanced genetics, methylation and the Genetic Wellness Program.</h3>
-<p>&nbsp;</p>
-<h3>We provide home laboratory test kits, online health tests, online health programs, genetic wellness programs, methylation optimization, integrative alternative medicine, natural health advice &amp; holistic health diagnosis &amp; treatments.</h3>
-<p>[/vc_column_text][vc_video link="https://youtu.be/_TZbZ8iZCr8" align="center"][vc_column_text]</p>
-<h6 style="text-align: center;">Our natural health practitioners are waiting to help you, <span style="color: #0000ff;"><strong><a style="color: #0000ff;" href="http://www.naturalhealthgroup.com.au/contact-us/">click here to ask a natural health practitioner now.</a></strong></span></h6>
-<h6></h6>
-<p>[/vc_column_text][vc_separator color="turquoise" border_width="2"][vc_row_inner][vc_column_inner width="1/2"][vc_cta h2="Hey! Did you know that most health problems can be reversed?"]Join hundreds of others who have used Natural Health Group to gain advanced health advice &amp; treatments from qualified natural heath practitioners and see the benefits of a science based natural health approach.[/vc_cta][/vc_column_inner][vc_column_inner width="1/2"][vc_single_image image="6274" img_size="full" alignment="center" onclick="custom_link" img_link_target="_blank" link="https://www.naturalhealthgroup.com.au/product-category/consultations/" title="Phone and Skype consultations:"][/vc_column_inner][/vc_row_inner][vc_separator color="turquoise" border_width="2"][/vc_column][/vc_row][vc_row][/vc_row]</p>
