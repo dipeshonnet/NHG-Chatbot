@@ -386,7 +386,7 @@ class ProductRecommendationSystem:
         # Purchase link
         product_url = product.get('product_page_url', product.get('url'))
         if product_url:
-            text += f"🔗 <a href='{product_url}' target='_self'><strong>View Product & Purchase</strong></a>\n"
+            text += f"🔗 [**View Product & Purchase**]({product_url})\n"
         
         return text + "\n"
     
@@ -707,7 +707,7 @@ IMPORTANT GUIDELINES:
         if self._should_suggest_consultation(query):
             consultation_prompt = (
                 "\n\n💡 **Want personalized advice?** Our consultation can create a customized plan just for you!\n"
-                "🔗 <a href='https://www.naturalhealthgroup.com.au/book-a-consultation/' target='_self'>Book a consultation here</a> 📅"
+                "[🔗 Book online now](https://www.naturalhealthgroup.com.au/book-a-consultation/)📅"
             )
             enhancements.append(consultation_prompt)
         
@@ -753,7 +753,7 @@ IMPORTANT GUIDELINES:
         """Handle appointment booking requests with enhanced copilot experience."""
         booking_message = (
             "I'd love to help you book a consultation! 📅✨\n\n"
-            "<a href='https://www.naturalhealthgroup.com.au/book-a-consultation/' target='_self'><strong>Book online now</strong></a> - Choosing your preferred time\n"
+            "[🔗 Book a consultation here](https://www.naturalhealthgroup.com.au/book-a-consultation/)"
             "**What to expect:**\n"
             "• Comprehensive health assessment 📋\n"
             "• Personalized treatment plan 🎯\n"
